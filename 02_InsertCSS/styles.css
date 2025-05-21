@@ -1,0 +1,21 @@
+/* Universal selector */
+*{
+    background-color: bisque;
+}
+
+/* Selector using html element */
+h1{
+    color: brown;
+}
+
+/* selector using class name */
+.para1{
+    color: azure;
+    background-color: burlywood;
+}
+
+/* selector using id */
+#para2{
+    color: aqua;
+    background-color: yellow;
+}
